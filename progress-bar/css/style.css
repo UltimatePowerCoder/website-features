@@ -1,0 +1,31 @@
+
+
+:root {
+    --black: #000000;
+    --white: #ffffff;
+}
+
+html {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.container {
+    max-width: 1180px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}
