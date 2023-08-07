@@ -1,0 +1,17 @@
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    padding: 50px;
+  }
+
+  button {
+    padding: 15px 30px;
+    background-color: #4397D2;
+    color: #fff;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+  }
